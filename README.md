@@ -14,7 +14,7 @@ This project provides an interactive visual tool to explore the RGB color channe
 
 ## How to Use
 
-1. Either Go to the github page link or clone the repository for local usage
+1. Either Go to the github page link (https://devashish-dixit.github.io/RGB-Channel-Viewer/) or clone the repository for local usage
 2. Use the "Upload Image" button to upload your own image.
 3. Adjust the sliders to manipulate the channel layers in 3D space.
 
